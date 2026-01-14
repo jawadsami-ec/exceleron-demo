@@ -1,5 +1,4 @@
 # exceleron-demo
 First git repository 
 <br>
-Aurthor: Jawad
-
+Aurthor: Jawad Sami
